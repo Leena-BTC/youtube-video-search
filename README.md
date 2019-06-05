@@ -1,3 +1,7 @@
+Below is the screenschot of the youtube-video-search app
+
+![youtube-video-search-screenshot](https://user-images.githubusercontent.com/51194163/58938569-bdc09280-8792-11e9-879c-8a128b7ddd3c.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
